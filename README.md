@@ -33,7 +33,8 @@ Madhav-Ecommerce-Sales-Dashboard/
 ## 🖼️ Dashboard Preview  
 
 ### 🔹 Dashboard Overview  
-![Dashboard Overview](./screenshots/dashboard_overview.png)
+![Dashboard Overview]<img width="739" height="419" alt="Screenshot 2025-08-24 232656" src="https://github.com/user-attachments/assets/fdc199ba-073c-4541-844d-bfb004b52105" />
+)
 
 ### 🔹 KPI Highlights  
 ![KPI Highlights](./screenshots/kpi_highlights.png)
