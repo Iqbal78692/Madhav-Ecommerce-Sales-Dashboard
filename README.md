@@ -37,10 +37,11 @@ Madhav-Ecommerce-Sales-Dashboard/
 )
 
 ### 🔹 KPI Highlights  
-![KPI Highlights](./screenshots/kpi_highlights.png)
+![KPI Highlights]<img width="740" height="415" alt="Screenshot 2025-08-24 232742" src="https://github.com/user-attachments/assets/ce2b34f6-904d-4938-844a-8d12be2d0039" />
 
 ### 🔹 Quarterly Analysis  
-![Quarterly Analysis](./screenshots/quarterly_analysis.png)
+![Quarterly Analysis](./screenshots/quarterly_analysis.png)<img width="741" height="414" alt="Screenshot 2025-08-24 232721" src="https://github.com/user-attachments/assets/ac56558a-b8b1-4761-acc2-9507531d2b78" />
+
 
 ---
 
